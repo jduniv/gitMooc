@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<animation src="bebe6.png" nbframe="1" >
+	<apart name="down" start="0" end="0" speed="6.0" 	/>
+	<apart name="left" start="0" end="0" speed="6.0" 	/>
+	<apart name="right" start="0" end="0" speed="6.0" 	/>
+	<apart name="up" start="0" end="0" speed="6.0" 		/>
+	<apart name="wait" start="0" end="0" speed="1.0" 	/>
+	<apart name="no" start="0" end="0" speed="1.0" 		/>
+</animation>
